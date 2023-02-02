@@ -27,7 +27,7 @@ const MiApi = () => {
   })
 
   const getApi = async () => {
-    const url = ""
+    const url = "https://raw.githubusercontent.com/AlmenP/Prueba-React/main/src/Components/harrypotter.json"
     try {
       let response = await fetch(url)
       let newData = await response.json()
