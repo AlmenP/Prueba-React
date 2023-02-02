@@ -7,6 +7,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.cardsbox {
+  display: flex;
+  justify-content:space-around;
+  margin: 15px;
+}
+
+.tituloheader{
+  text-align: center;
+  background-color: black;
+  color: orange;
+  padding: 25px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
