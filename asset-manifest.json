@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Prueba-React/static/css/main.53f00fd9.css",
+    "main.js": "/Prueba-React/static/js/main.b44cba0c.js",
+    "static/media/harry-potter-logo.png": "/Prueba-React/static/media/harry-potter-logo.96e0a72cfdf19e36de8d.png",
+    "index.html": "/Prueba-React/index.html",
+    "main.53f00fd9.css.map": "/Prueba-React/static/css/main.53f00fd9.css.map",
+    "main.b44cba0c.js.map": "/Prueba-React/static/js/main.b44cba0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f00fd9.css",
+    "static/js/main.b44cba0c.js"
+  ]
+}
